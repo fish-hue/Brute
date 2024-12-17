@@ -37,13 +37,13 @@ pip install requests
 1. **Clone or download the repository**:
    - If using Git, clone the repository:
      ```bash
-     git clone https://github.com/yourusername/authentication-testing-tool.git
+     git clone https://github.com/fish-hue/brute.git
      ```
 
 2. **Run the script**:
    - Navigate to the folder where the script is located and run it:
      ```bash
-     python authentication_testing_tool.py
+     python brute.py
      ```
 
 3. **Configuration**:
