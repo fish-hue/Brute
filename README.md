@@ -66,7 +66,7 @@ pip install requests
 ## Example Run
 
 ```bash
-$ python authentication_testing_tool.py
+$ python brute.py
 
 Welcome to the Enhanced Authentication Testing Tool!
 Enter the login URL (e.g., http://example.com/login): http://example.com/login
